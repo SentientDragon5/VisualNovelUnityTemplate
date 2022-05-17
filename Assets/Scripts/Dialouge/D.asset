@@ -1,0 +1,3922 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1f4b50b71fe45d3b1979fed8285bfc, type: 3}
+  m_Name: D
+  m_EditorClassIdentifier: 
+  dictionaryTextFile: {fileID: 4900000, guid: c04e296043b0f45d098bb8768f36a0d2, type: 3}
+  speakers:
+  - name: THESEUS
+    color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+    sprite: {fileID: 21300000, guid: 1354f2b8d09eb47baba329754d76391c, type: 3}
+  - name: PHILOSTRATE
+    color: {r: 0.5019608, g: 1, b: 0.6466574, a: 0}
+    sprite: {fileID: 21300000, guid: a6c4fd47e2a2143f1909036ebc51fd75, type: 3}
+  - name: HIPPOLYTA
+    color: {r: 1, g: 0.5208793, b: 0.5019608, a: 0}
+    sprite: {fileID: 21300000, guid: 2349dd0baf9e043a298705db3efcb34f, type: 3}
+  - name: 'Attendants THESEUS '
+    color: {r: 1, g: 0.5019608, b: 0.6838963, a: 0}
+    sprite: {fileID: 21300000, guid: 270b8f9bdc5fa4965a631fcfb81fcb71, type: 3}
+  - name: EGEUS
+    color: {r: 0.7402706, g: 0.5019608, b: 1, a: 0}
+    sprite: {fileID: 21300000, guid: 3850e6fc30fee4d86ba2f3d25b322af1, type: 3}
+  - name: HERMIA
+    color: {r: 0.52601814, g: 0.5019608, b: 1, a: 0}
+    sprite: {fileID: 21300000, guid: 0700c61816ae947f680b1a1a6b171e2f, type: 3}
+  - name: LYSANDER
+    color: {r: 0.7972992, g: 1, b: 0.5019608, a: 0}
+    sprite: {fileID: 21300000, guid: 7d541ae6ac57f4f2fa85651b78d48b66, type: 3}
+  - name: DEMETRIUS
+    color: {r: 0.5019608, g: 0.9688584, b: 1, a: 0}
+    sprite: {fileID: 21300000, guid: 041dd103e5c634812bd6444e56f3596c, type: 3}
+  - name: HELENA
+    color: {r: 1, g: 0.75940907, b: 0.5019608, a: 0}
+    sprite: {fileID: 21300000, guid: c2543413f80754abb8ffd4bb4b144a2d, type: 3}
+  events:
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Enter THESEUS, HIPPOLYTA, PHILOSTRATE, and Attendants THESEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: THESEUS
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Now, fair Hippolyta, our nuptial hour
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Draws on apace; four happy days bring in
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Another moon: but, O, methinks, how slow'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: This old moon wanes! she lingers my desires,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Like to a step-dame or a dowager
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Long withering out a young man revenue.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HIPPOLYTA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Four days will quickly steep themselves in night;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Four nights will quickly dream away the time;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And then the moon, like to a silver bow
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: New-bent in heaven, shall behold the night
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Of our solemnities.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'THESEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Go, Philostrate,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Stir up the Athenian youth to merriments;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Awake the pert and nimble spirit of mirth;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Turn melancholy forth to funerals;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: The pale companion is not for our pomp.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Exit PHILOSTRATE
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Hippolyta, I woo'd thee with my sword,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And won thy love, doing thee injuries;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: But I will wed thee in another key,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: With pomp, with triumph and with revelling.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Enter EGEUS, HERMIA, LYSANDER, and DEMETRIUS
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'EGEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Happy be Theseus, our renowned duke!
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'THESEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Thanks, good Egeus: what''s the news with thee?'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'EGEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Full of vexation come I, with complaint
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Against my child, my daughter Hermia.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Stand forth, Demetrius. My noble lord,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: This man hath my consent to marry her.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Stand forth, Lysander: and my gracious duke,'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: This man hath bewitch'd the bosom of my child;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Thou, thou, Lysander, thou hast given her rhymes,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'And interchanged love-tokens with my child:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Thou hast by moonlight at her window sung,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: With feigning voice verses of feigning love,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And stolen the impression of her fantasy
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: With bracelets of thy hair, rings, gawds, conceits,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Knacks, trifles, nosegays, sweetmeats, messengers
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Of strong prevailment in unharden''d youth:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: With cunning hast thou filch'd my daughter's heart,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Turn'd her obedience, which is due to me,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'To stubborn harshness: and, my gracious duke,'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Be it so she; will not here before your grace
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Consent to marry with Demetrius,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I beg the ancient privilege of Athens,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'As she is mine, I may dispose of her:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Which shall be either to this gentleman
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Or to her death, according to our law
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Immediately provided in that case.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'THESEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'What say you, Hermia? be advised fair maid:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To you your father should be as a god;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: One that composed your beauties, yea, and one
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To whom you are but as a form in wax
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: By him imprinted and within his power
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To leave the figure or disfigure it.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Demetrius is a worthy gentleman.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: So is Lysander.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'THESEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: In himself he is;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: But in this kind, wanting your father's voice,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: The other must be held the worthier.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I would my father look'd but with my eyes.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'THESEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Rather your eyes must with his judgment look.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I do entreat your grace to pardon me.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I know not by what power I am made bold,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Nor how it may concern my modesty,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: In such a presence here to plead my thoughts;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: But I beseech your grace that I may know
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: The worst that may befall me in this case,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: If I refuse to wed Demetrius.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'THESEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Either to die the death or to abjure
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: For ever the society of men.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Therefore, fair Hermia, question your desires;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Know of your youth, examine well your blood,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Whether, if you yield not to your father's choice,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: You can endure the livery of a nun,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: For aye to be in shady cloister mew'd,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To live a barren sister all your life,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Chanting faint hymns to the cold fruitless moon.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Thrice-blessed they that master so their blood,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To undergo such maiden pilgrimage;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: But earthlier happy is the rose distill'd,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Than that which withering on the virgin thorn
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Grows, lives and dies in single blessedness.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: So will I grow, so live, so die, my lord,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Ere I will my virgin patent up
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Unto his lordship, whose unwished yoke
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: My soul consents not to give sovereignty.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'THESEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Take time to pause; and, by the nest new moon--
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: The sealing-day betwixt my love and me,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: For everlasting bond of fellowship--
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Upon that day either prepare to die
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: For disobedience to your father's will,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Or else to wed Demetrius, as he would;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Or on Diana's altar to protest
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: For aye austerity and single life.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'DEMETRIUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Relent, sweet Hermia: and, Lysander, yield'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Thy crazed title to my certain right.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'LYSANDER '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: You have her father's love, Demetrius;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Let me have Hermia''s: do you marry him.'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'EGEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Scornful Lysander! true, he hath my love,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And what is mine my love shall render him.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And she is mine, and all my right of her
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I do estate unto Demetrius.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'LYSANDER '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I am, my lord, as well derived as he,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: As well possess'd; my love is more than his;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: My fortunes every way as fairly rank'd,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: If not with vantage, as Demetrius';
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And, which is more than all these boasts can be,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'I am beloved of beauteous Hermia:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Why should not I then prosecute my right?
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Demetrius, I'll avouch it to his head,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Made love to Nedar's daughter, Helena,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And won her soul; and she, sweet lady, dotes,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Devoutly dotes, dotes in idolatry,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Upon this spotted and inconstant man.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'THESEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I must confess that I have heard so much,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And with Demetrius thought to have spoke thereof;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: But, being over-full of self-affairs,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: My mind did lose it. But, Demetrius, come;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And come, Egeus; you shall go with me,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I have some private schooling for you both.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: For you, fair Hermia, look you arm yourself
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To fit your fancies to your father's will;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Or else the law of Athens yields you up--
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Which by no means we may extenuate--
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To death, or to a vow of single life.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Come, my Hippolyta: what cheer, my love?'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Demetrius and Egeus, go along:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I must employ you in some business
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Against our nuptial and confer with you
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Of something nearly that concerns yourselves.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'EGEUS '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: With duty and desire we follow you.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Exeunt all but LYSANDER and HERMIA
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'LYSANDER '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: How now, my love! why is your cheek so pale?
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: How chance the roses there do fade so fast?
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Belike for want of rain, which I could well
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Beteem them from the tempest of my eyes.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'LYSANDER '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Ay me! for aught that I could ever read,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Could ever hear by tale or history,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: The course of true love never did run smooth;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: But, either it was different in blood,--
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: O cross! too high to be enthrall'd to low.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'LYSANDER '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Or else misgraffed in respect of years,--
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: O spite! too old to be engaged to young.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'LYSANDER '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Or else it stood upon the choice of friends,--
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: O hell! to choose love by another's eyes.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'LYSANDER '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Or, if there were a sympathy in choice,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: War, death, or sickness did lay siege to it,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Making it momentany as a sound,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Swift as a shadow, short as any dream;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Brief as the lightning in the collied night,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: That, in a spleen, unfolds both heaven and earth,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And ere a man hath power to say 'Behold!'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'The jaws of darkness do devour it up:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: So quick bright things come to confusion.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: If then true lovers have been ever cross'd,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'It stands as an edict in destiny:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Then let us teach our trial patience,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Because it is a customary cross,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: As due to love as thoughts and dreams and sighs,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Wishes and tears, poor fancy's followers.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'LYSANDER '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'A good persuasion: therefore, hear me, Hermia.'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I have a widow aunt, a dowager
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Of great revenue, and she hath no child:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: From Athens is her house remote seven leagues;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And she respects me as her only son.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: There, gentle Hermia, may I marry thee;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And to that place the sharp Athenian law
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Cannot pursue us. If thou lovest me then,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Steal forth thy father's house to-morrow night;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And in the wood, a league without the town,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Where I did meet thee once with Helena,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To do observance to a morn of May,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: There will I stay for thee.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: My good Lysander!
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I swear to thee, by Cupid's strongest bow,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: By his best arrow with the golden head,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: By the simplicity of Venus' doves,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: By that which knitteth souls and prospers loves,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And by that fire which burn'd the Carthage queen,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: When the false Troyan under sail was seen,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: By all the vows that ever men have broke,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: In number more than ever women spoke,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: In that same place thou hast appointed me,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To-morrow truly will I meet with thee.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'LYSANDER '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Keep promise, love. Look, here comes Helena.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Enter HELENA
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: God speed fair Helena! whither away?
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HELENA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Call you me fair? that fair again unsay.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Demetrius loves your fair: O happy fair!'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Your eyes are lode-stars; and your tongue's sweet air
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: More tuneable than lark to shepherd's ear,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: When wheat is green, when hawthorn buds appear.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Sickness is catching: O, were favour so,'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Yours would I catch, fair Hermia, ere I go;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: My ear should catch your voice, my eye your eye,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: My tongue should catch your tongue's sweet melody.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Were the world mine, Demetrius being bated,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: The rest I'd give to be to you translated.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: O, teach me how you look, and with what art
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: You sway the motion of Demetrius' heart.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I frown upon him, yet he loves me still.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HELENA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: O that your frowns would teach my smiles such skill!
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I give him curses, yet he gives me love.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HELENA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: O that my prayers could such affection move!
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: The more I hate, the more he follows me.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HELENA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: The more I love, the more he hateth me.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: His folly, Helena, is no fault of mine.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HELENA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'None, but your beauty: would that fault were mine!'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Take comfort: he no more shall see my face;'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Lysander and myself will fly this place.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Before the time I did Lysander see,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Seem''d Athens as a paradise to me:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: O, then, what graces in my love do dwell,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: That he hath turn'd a heaven unto a hell!
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'LYSANDER '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Helen, to you our minds we will unfold:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To-morrow night, when Phoebe doth behold
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Her silver visage in the watery glass,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Decking with liquid pearl the bladed grass,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: A time that lovers' flights doth still conceal,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Through Athens' gates have we devised to steal.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HERMIA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And in the wood, where often you and I
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Upon faint primrose-beds were wont to lie,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Emptying our bosoms of their counsel sweet,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: There my Lysander and myself shall meet;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And thence from Athens turn away our eyes,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To seek new friends and stranger companies.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Farewell, sweet playfellow: pray thou for us;'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And good luck grant thee thy Demetrius!
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Keep word, Lysander: we must starve our sight'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: From lovers' food till morrow deep midnight.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'LYSANDER '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I will, my Hermia.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Exit HERMIA
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Helena, adieu:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: As you on him, Demetrius dote on you!
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Exit
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'HELENA '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: How happy some o'er other some can be!
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Through Athens I am thought as fair as she.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: But what of that? Demetrius thinks not so;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'He will not know what all but he do know:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And as he errs, doting on Hermia's eyes,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'So I, admiring of his qualities:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Things base and vile, folding no quantity,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Love can transpose to form and dignity:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Love looks not with the eyes, but with the mind;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'And therefore is wing''d Cupid painted blind:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Nor hath Love's mind of any judgement taste;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Wings and no eyes figure unheedy haste:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And therefore is Love said to be a child,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Because in choice he is so oft beguiled.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: As waggish boys in game themselves forswear,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'So the boy Love is perjured every where:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: For ere Demetrius look'd on Hermia's eyne,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: He hail'd down oaths that he was only mine;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And when this hail some heat from Hermia felt,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: So he dissolved, and showers of oaths did melt.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'I will go tell him of fair Hermia''s flight:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Then to the wood will he to-morrow night
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Pursue her; and for this intelligence
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'If I have thanks, it is a dear expense:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: But herein mean I to enrich my pain,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: To have his sight thither and back again.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Exit
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: SCENE II. Athens. QUINCE'S house.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Is all our company here?
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: You were best to call them generally, man by man,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: according to the scrip.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Here is the scroll of every man's name, which is
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: thought fit, through all Athens, to play in our
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: interlude before the duke and the duchess, on his
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: wedding-day at night.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: First, good Peter Quince, say what the play treats
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: on, then read the names of the actors, and so grow
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: to a point.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Marry, our play is, The most lamentable comedy, and
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: most cruel death of Pyramus and Thisby.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: A very good piece of work, I assure you, and a
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: merry. Now, good Peter Quince, call forth your
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: actors by the scroll. Masters, spread yourselves.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Answer as I call you. Nick Bottom, the weaver.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Ready. Name what part I am for, and proceed.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: You, Nick Bottom, are set down for Pyramus.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: What is Pyramus? a lover, or a tyrant?
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: A lover, that kills himself most gallant for love.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: That will ask some tears in the true performing of
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'it: if I do it, let the audience look to their'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: eyes; I will move storms, I will condole in some
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'measure. To the rest: yet my chief humour is for a'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'tyrant: I could play Ercles rarely, or a part to'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: tear a cat in, to make all split.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: The raging rocks
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And shivering shocks
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Shall break the locks
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Of prison gates;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And Phibbus' car
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Shall shine from far
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: And make and mar
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: The foolish Fates.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: This was lofty! Now name the rest of the players.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: This is Ercles' vein, a tyrant's vein; a lover is
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: more condoling.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Francis Flute, the bellows-mender.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'FLUTE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Here, Peter Quince.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Flute, you must take Thisby on you.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'FLUTE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: What is Thisby? a wandering knight?
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: It is the lady that Pyramus must love.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'FLUTE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Nay, faith, let me not play a woman; I have a beard coming.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'That''s all one: you shall play it in a mask, and'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: you may speak as small as you will.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: An I may hide my face, let me play Thisby too, I'll
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: speak in a monstrous little voice. 'Thisne,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Thisne;' 'Ah, Pyramus, lover dear! thy Thisby dear,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: and lady dear!'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'No, no; you must play Pyramus: and, Flute, you Thisby.'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Well, proceed.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Robin Starveling, the tailor.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'STARVELING '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Here, Peter Quince.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Robin Starveling, you must play Thisby's mother.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Tom Snout, the tinker.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'SNOUT '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Here, Peter Quince.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'You, Pyramus'' father: myself, Thisby''s father:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Snug, the joiner; you, the lion''s part: and, I'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: hope, here is a play fitted.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'SNUG '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Have you the lion's part written? pray you, if it
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: be, give it me, for I am slow of study.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: You may do it extempore, for it is nothing but roaring.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'Let me play the lion too: I will roar, that I will'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: do any man's heart good to hear me; I will roar,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: that I will make the duke say 'Let him roar again,
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: let him roar again.'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: An you should do it too terribly, you would fright
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: the duchess and the ladies, that they would shriek;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: and that were enough to hang us all.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'ALL '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: That would hang us, every mother's son.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I grant you, friends, if that you should fright the
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: ladies out of their wits, they would have no more
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'discretion but to hang us: but I will aggravate my'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: voice so that I will roar you as gently as any
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: sucking dove; I will roar you an 'twere any
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: nightingale.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: You can play no part but Pyramus; for Pyramus is a
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: sweet-faced man; a proper man, as one shall see in a
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'summer''s day; a most lovely gentleman-like man:'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: therefore you must needs play Pyramus.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Well, I will undertake it. What beard were I best
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: to play it in?
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Why, what you will.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: I will discharge it in either your straw-colour
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: beard, your orange-tawny beard, your purple-in-grain
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: beard, or your French-crown-colour beard, your
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: perfect yellow.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: Some of your French crowns have no hair at all, and
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: then you will play bare-faced. But, masters, here
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'are your parts: and I am to entreat you, request'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: you and desire you, to con them by to-morrow night;
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: and meet me in the palace wood, a mile without the
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: town, by moonlight; there will we rehearse, for if
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: we meet in the city, we shall be dogged with
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: company, and our devices known. In the meantime I
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: will draw a bill of properties, such as our play
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: wants. I pray you, fail me not.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: We will meet; and there we may rehearse most
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'obscenely and courageously. Take pains; be perfect: adieu.'
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'QUINCE '
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: At the duke's oak we meet.
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 
+    speakers: []
+  - action: 0
+    speaker:
+      name: THESEUS
+      color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+      sprite: {fileID: 0}
+    text: 'BOTTOM '
+    speakers: []
