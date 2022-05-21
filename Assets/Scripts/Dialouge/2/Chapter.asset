@@ -1,0 +1,1641 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efef2a3c5858242e69276d935791f732, type: 3}
+  m_Name: Chapter
+  m_EditorClassIdentifier: 
+  castSO: {fileID: 11400000, guid: 0021118b240b64425b1f7efb41b0fd6a, type: 2}
+  events:
+  - text: Enter
+    speakerIndex: 0
+    action: 1
+    speakerIndies: 000000000100000003000000
+  - text: Now, fair Hippolyta, our nuptial hour
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Draws on apace; four happy days bring in
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: 'Another moon: but, O, methinks, how slow'
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: This old moon wanes! she lingers my desires,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Like to a step-dame or a dowager
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Long withering out a young man revenue.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Four days will quickly steep themselves in night;
+    speakerIndex: 2
+    action: 0
+    speakerIndies: 
+  - text: Four nights will quickly dream away the time;
+    speakerIndex: 2
+    action: 0
+    speakerIndies: 
+  - text: And then the moon, like to a silver bow
+    speakerIndex: 2
+    action: 0
+    speakerIndies: 
+  - text: New-bent in heaven, shall behold the night
+    speakerIndex: 2
+    action: 0
+    speakerIndies: 
+  - text: Of our solemnities.
+    speakerIndex: 2
+    action: 0
+    speakerIndies: 
+  - text: Go, Philostrate,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Stir up the Athenian youth to merriments;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Awake the pert and nimble spirit of mirth;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Turn melancholy forth to funerals;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: The pale companion is not for our pomp.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Exit
+    speakerIndex: 0
+    action: 2
+    speakerIndies: 01000000
+  - text: Hippolyta, I woo'd thee with my sword,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: And won thy love, doing thee injuries;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: But I will wed thee in another key,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: With pomp, with triumph and with revelling.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Enter
+    speakerIndex: 0
+    action: 1
+    speakerIndies: 04000000050000000600000007000000
+  - text: Happy be Theseus, our renowned duke!
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: 'Thanks, good Egeus: what''s the news with thee?'
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Full of vexation come I, with complaint
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: Against my child, my daughter Hermia.
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: Stand forth, Demetrius. My noble lord,
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: This man hath my consent to marry her.
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: 'Stand forth, Lysander: and my gracious duke,'
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: This man hath bewitch'd the bosom of my child;
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: Thou, thou, Lysander, thou hast given her rhymes,
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: 'And interchanged love-tokens with my child:'
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: Thou hast by moonlight at her window sung,
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: With feigning voice verses of feigning love,
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: And stolen the impression of her fantasy
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: With bracelets of thy hair, rings, gawds, conceits,
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: Knacks, trifles, nosegays, sweetmeats, messengers
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: 'Of strong prevailment in unharden''d youth:'
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: With cunning hast thou filch'd my daughter's heart,
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: Turn'd her obedience, which is due to me,
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: 'To stubborn harshness: and, my gracious duke,'
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: Be it so she; will not here before your grace
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: Consent to marry with Demetrius,
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: I beg the ancient privilege of Athens,
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: 'As she is mine, I may dispose of her:'
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: Which shall be either to this gentleman
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: Or to her death, according to our law
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: Immediately provided in that case.
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: 'What say you, Hermia? be advised fair maid:'
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: To you your father should be as a god;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: One that composed your beauties, yea, and one
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: To whom you are but as a form in wax
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: By him imprinted and within his power
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: To leave the figure or disfigure it.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Demetrius is a worthy gentleman.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: So is Lysander.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: In himself he is;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: But in this kind, wanting your father's voice,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: The other must be held the worthier.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: I would my father look'd but with my eyes.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Rather your eyes must with his judgment look.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: I do entreat your grace to pardon me.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: I know not by what power I am made bold,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Nor how it may concern my modesty,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: In such a presence here to plead my thoughts;
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: But I beseech your grace that I may know
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: The worst that may befall me in this case,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: If I refuse to wed Demetrius.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Either to die the death or to abjure
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: For ever the society of men.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Therefore, fair Hermia, question your desires;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Know of your youth, examine well your blood,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Whether, if you yield not to your father's choice,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: You can endure the livery of a nun,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: For aye to be in shady cloister mew'd,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: To live a barren sister all your life,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Chanting faint hymns to the cold fruitless moon.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Thrice-blessed they that master so their blood,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: To undergo such maiden pilgrimage;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: But earthlier happy is the rose distill'd,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Than that which withering on the virgin thorn
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Grows, lives and dies in single blessedness.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: So will I grow, so live, so die, my lord,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Ere I will my virgin patent up
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Unto his lordship, whose unwished yoke
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: My soul consents not to give sovereignty.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Take time to pause; and, by the nest new moon--
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: The sealing-day betwixt my love and me,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: For everlasting bond of fellowship--
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Upon that day either prepare to die
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: For disobedience to your father's will,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Or else to wed Demetrius, as he would;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Or on Diana's altar to protest
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: For aye austerity and single life.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: 'Relent, sweet Hermia: and, Lysander, yield'
+    speakerIndex: 7
+    action: 0
+    speakerIndies: 
+  - text: Thy crazed title to my certain right.
+    speakerIndex: 7
+    action: 0
+    speakerIndies: 
+  - text: You have her father's love, Demetrius;
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: 'Let me have Hermia''s: do you marry him.'
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Scornful Lysander! true, he hath my love,
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: And what is mine my love shall render him.
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: And she is mine, and all my right of her
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: I do estate unto Demetrius.
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: I am, my lord, as well derived as he,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: As well possess'd; my love is more than his;
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: My fortunes every way as fairly rank'd,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: If not with vantage, as Demetrius';
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: And, which is more than all these boasts can be,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: 'I am beloved of beauteous Hermia:'
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Why should not I then prosecute my right?
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Demetrius, I'll avouch it to his head,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Made love to Nedar's daughter, Helena,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: And won her soul; and she, sweet lady, dotes,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Devoutly dotes, dotes in idolatry,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Upon this spotted and inconstant man.
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: I must confess that I have heard so much,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: And with Demetrius thought to have spoke thereof;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: But, being over-full of self-affairs,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: My mind did lose it. But, Demetrius, come;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: And come, Egeus; you shall go with me,
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: I have some private schooling for you both.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: For you, fair Hermia, look you arm yourself
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: To fit your fancies to your father's will;
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Or else the law of Athens yields you up--
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Which by no means we may extenuate--
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: To death, or to a vow of single life.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: 'Come, my Hippolyta: what cheer, my love?'
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: 'Demetrius and Egeus, go along:'
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: I must employ you in some business
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Against our nuptial and confer with you
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: Of something nearly that concerns yourselves.
+    speakerIndex: 0
+    action: 0
+    speakerIndies: 
+  - text: With duty and desire we follow you.
+    speakerIndex: 4
+    action: 0
+    speakerIndies: 
+  - text: How now, my love! why is your cheek so pale?
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: How chance the roses there do fade so fast?
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Belike for want of rain, which I could well
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Beteem them from the tempest of my eyes.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Ay me! for aught that I could ever read,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Could ever hear by tale or history,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: The course of true love never did run smooth;
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: But, either it was different in blood,--
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: O cross! too high to be enthrall'd to low.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Or else misgraffed in respect of years,--
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: O spite! too old to be engaged to young.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Or else it stood upon the choice of friends,--
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: O hell! to choose love by another's eyes.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Or, if there were a sympathy in choice,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: War, death, or sickness did lay siege to it,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Making it momentany as a sound,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Swift as a shadow, short as any dream;
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Brief as the lightning in the collied night,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: That, in a spleen, unfolds both heaven and earth,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: And ere a man hath power to say 'Behold!'
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: 'The jaws of darkness do devour it up:'
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: So quick bright things come to confusion.
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: If then true lovers have been ever cross'd,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: 'It stands as an edict in destiny:'
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Then let us teach our trial patience,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Because it is a customary cross,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: As due to love as thoughts and dreams and sighs,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Wishes and tears, poor fancy's followers.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: 'A good persuasion: therefore, hear me, Hermia.'
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: I have a widow aunt, a dowager
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: 'Of great revenue, and she hath no child:'
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: From Athens is her house remote seven leagues;
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: And she respects me as her only son.
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: There, gentle Hermia, may I marry thee;
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: And to that place the sharp Athenian law
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Cannot pursue us. If thou lovest me then,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Steal forth thy father's house to-morrow night;
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: And in the wood, a league without the town,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Where I did meet thee once with Helena,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: To do observance to a morn of May,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: There will I stay for thee.
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: My good Lysander!
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: I swear to thee, by Cupid's strongest bow,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: By his best arrow with the golden head,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: By the simplicity of Venus' doves,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: By that which knitteth souls and prospers loves,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: And by that fire which burn'd the Carthage queen,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: When the false Troyan under sail was seen,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: By all the vows that ever men have broke,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: In number more than ever women spoke,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: In that same place thou hast appointed me,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: To-morrow truly will I meet with thee.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Keep promise, love. Look, here comes Helena.
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Enter
+    speakerIndex: 0
+    action: 1
+    speakerIndies: 08000000
+  - text: God speed fair Helena! whither away?
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Call you me fair? that fair again unsay.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'Demetrius loves your fair: O happy fair!'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Your eyes are lode-stars; and your tongue's sweet air
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: More tuneable than lark to shepherd's ear,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: When wheat is green, when hawthorn buds appear.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'Sickness is catching: O, were favour so,'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Yours would I catch, fair Hermia, ere I go;
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: My ear should catch your voice, my eye your eye,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: My tongue should catch your tongue's sweet melody.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Were the world mine, Demetrius being bated,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: The rest I'd give to be to you translated.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: O, teach me how you look, and with what art
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: You sway the motion of Demetrius' heart.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: I frown upon him, yet he loves me still.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: O that your frowns would teach my smiles such skill!
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: I give him curses, yet he gives me love.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: O that my prayers could such affection move!
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: The more I hate, the more he follows me.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: The more I love, the more he hateth me.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: His folly, Helena, is no fault of mine.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: 'None, but your beauty: would that fault were mine!'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'Take comfort: he no more shall see my face;'
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Lysander and myself will fly this place.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Before the time I did Lysander see,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: 'Seem''d Athens as a paradise to me:'
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: O, then, what graces in my love do dwell,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: That he hath turn'd a heaven unto a hell!
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: 'Helen, to you our minds we will unfold:'
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: To-morrow night, when Phoebe doth behold
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Her silver visage in the watery glass,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Decking with liquid pearl the bladed grass,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: A time that lovers' flights doth still conceal,
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Through Athens' gates have we devised to steal.
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: And in the wood, where often you and I
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Upon faint primrose-beds were wont to lie,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: Emptying our bosoms of their counsel sweet,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: There my Lysander and myself shall meet;
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: And thence from Athens turn away our eyes,
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: To seek new friends and stranger companies.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: 'Farewell, sweet playfellow: pray thou for us;'
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: And good luck grant thee thy Demetrius!
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: 'Keep word, Lysander: we must starve our sight'
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: From lovers' food till morrow deep midnight.
+    speakerIndex: 5
+    action: 0
+    speakerIndies: 
+  - text: I will, my Hermia.
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Exit
+    speakerIndex: 0
+    action: 2
+    speakerIndies: 05000000
+  - text: 'Helena, adieu:'
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: As you on him, Demetrius dote on you!
+    speakerIndex: 6
+    action: 0
+    speakerIndies: 
+  - text: Exit
+    speakerIndex: 0
+    action: 2
+    speakerIndies: 
+  - text: How happy some o'er other some can be!
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Through Athens I am thought as fair as she.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: But what of that? Demetrius thinks not so;
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'He will not know what all but he do know:'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: And as he errs, doting on Hermia's eyes,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'So I, admiring of his qualities:'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Things base and vile, folding no quantity,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'Love can transpose to form and dignity:'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Love looks not with the eyes, but with the mind;
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'And therefore is wing''d Cupid painted blind:'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Nor hath Love's mind of any judgement taste;
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'Wings and no eyes figure unheedy haste:'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: And therefore is Love said to be a child,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Because in choice he is so oft beguiled.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: As waggish boys in game themselves forswear,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'So the boy Love is perjured every where:'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: For ere Demetrius look'd on Hermia's eyne,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: He hail'd down oaths that he was only mine;
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: And when this hail some heat from Hermia felt,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: So he dissolved, and showers of oaths did melt.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'I will go tell him of fair Hermia''s flight:'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Then to the wood will he to-morrow night
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Pursue her; and for this intelligence
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'If I have thanks, it is a dear expense:'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: But herein mean I to enrich my pain,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: To have his sight thither and back again.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Exit
+    speakerIndex: 0
+    action: 2
+    speakerIndies: 
+  - text: SCENE II. Athens. QUINCE'S house.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Enter
+    speakerIndex: 0
+    action: 1
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Is all our company here?
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: You were best to call them generally, man by man,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: according to the scrip.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Here is the scroll of every man's name, which is
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: thought fit, through all Athens, to play in our
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: interlude before the duke and the duchess, on his
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: wedding-day at night.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: First, good Peter Quince, say what the play treats
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: on, then read the names of the actors, and so grow
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: to a point.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Marry, our play is, The most lamentable comedy, and
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: most cruel death of Pyramus and Thisby.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: A very good piece of work, I assure you, and a
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: merry. Now, good Peter Quince, call forth your
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: actors by the scroll. Masters, spread yourselves.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Answer as I call you. Nick Bottom, the weaver.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Ready. Name what part I am for, and proceed.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: You, Nick Bottom, are set down for Pyramus.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: What is Pyramus? a lover, or a tyrant?
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: A lover, that kills himself most gallant for love.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: That will ask some tears in the true performing of
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'it: if I do it, let the audience look to their'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: eyes; I will move storms, I will condole in some
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'measure. To the rest: yet my chief humour is for a'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'tyrant: I could play Ercles rarely, or a part to'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: tear a cat in, to make all split.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: The raging rocks
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: And shivering shocks
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Shall break the locks
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Of prison gates;
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: And Phibbus' car
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Shall shine from far
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: And make and mar
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: The foolish Fates.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: This was lofty! Now name the rest of the players.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: This is Ercles' vein, a tyrant's vein; a lover is
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: more condoling.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Francis Flute, the bellows-mender.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'FLUTE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Here, Peter Quince.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Flute, you must take Thisby on you.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'FLUTE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: What is Thisby? a wandering knight?
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: It is the lady that Pyramus must love.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'FLUTE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Nay, faith, let me not play a woman; I have a beard coming.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'That''s all one: you shall play it in a mask, and'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: you may speak as small as you will.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: An I may hide my face, let me play Thisby too, I'll
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: speak in a monstrous little voice. 'Thisne,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Thisne;' 'Ah, Pyramus, lover dear! thy Thisby dear,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: and lady dear!'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'No, no; you must play Pyramus: and, Flute, you Thisby.'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Well, proceed.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Robin Starveling, the tailor.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'STARVELING '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Here, Peter Quince.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Robin Starveling, you must play Thisby's mother.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Tom Snout, the tinker.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'SNOUT '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Here, Peter Quince.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'You, Pyramus'' father: myself, Thisby''s father:'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'Snug, the joiner; you, the lion''s part: and, I'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: hope, here is a play fitted.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'SNUG '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Have you the lion's part written? pray you, if it
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: be, give it me, for I am slow of study.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: You may do it extempore, for it is nothing but roaring.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'Let me play the lion too: I will roar, that I will'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: do any man's heart good to hear me; I will roar,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: that I will make the duke say 'Let him roar again,
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: let him roar again.'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: An you should do it too terribly, you would fright
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: the duchess and the ladies, that they would shriek;
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: and that were enough to hang us all.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'ALL '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: That would hang us, every mother's son.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: I grant you, friends, if that you should fright the
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: ladies out of their wits, they would have no more
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'discretion but to hang us: but I will aggravate my'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: voice so that I will roar you as gently as any
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: sucking dove; I will roar you an 'twere any
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: nightingale.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: You can play no part but Pyramus; for Pyramus is a
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: sweet-faced man; a proper man, as one shall see in a
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'summer''s day; a most lovely gentleman-like man:'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: therefore you must needs play Pyramus.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Well, I will undertake it. What beard were I best
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: to play it in?
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Why, what you will.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: I will discharge it in either your straw-colour
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: beard, your orange-tawny beard, your purple-in-grain
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: beard, or your French-crown-colour beard, your
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: perfect yellow.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Some of your French crowns have no hair at all, and
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: then you will play bare-faced. But, masters, here
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'are your parts: and I am to entreat you, request'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: you and desire you, to con them by to-morrow night;
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: and meet me in the palace wood, a mile without the
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: town, by moonlight; there will we rehearse, for if
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: we meet in the city, we shall be dogged with
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: company, and our devices known. In the meantime I
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: will draw a bill of properties, such as our play
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: wants. I pray you, fail me not.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: We will meet; and there we may rehearse most
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'obscenely and courageously. Take pains; be perfect: adieu.'
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'QUINCE '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: At the duke's oak we meet.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: 'BOTTOM '
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  - text: Enough; hold or cut bow-strings.
+    speakerIndex: 8
+    action: 0
+    speakerIndies: 
+  textAsset: {fileID: 4900000, guid: c04e296043b0f45d098bb8768f36a0d2, type: 3}

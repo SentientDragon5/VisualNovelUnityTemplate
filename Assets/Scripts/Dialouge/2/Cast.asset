@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a234e4fd3ce3245589f3eb9f17da5a19, type: 3}
+  m_Name: Cast
+  m_EditorClassIdentifier: 
+  cast:
+  - name: THESEUS
+    color: {r: 0.5, g: 0.6642722, b: 1, a: 0}
+    sprite: {fileID: 21300000, guid: 1354f2b8d09eb47baba329754d76391c, type: 3}
+  - name: PHILOSTRATE
+    color: {r: 0.5019608, g: 1, b: 0.6466574, a: 0}
+    sprite: {fileID: 21300000, guid: a6c4fd47e2a2143f1909036ebc51fd75, type: 3}
+  - name: HIPPOLYTA
+    color: {r: 1, g: 0.5208793, b: 0.5019608, a: 0}
+    sprite: {fileID: 21300000, guid: 2349dd0baf9e043a298705db3efcb34f, type: 3}
+  - name: 'Attendants THESEUS '
+    color: {r: 1, g: 0.5019608, b: 0.6838963, a: 0}
+    sprite: {fileID: 21300000, guid: 270b8f9bdc5fa4965a631fcfb81fcb71, type: 3}
+  - name: EGEUS
+    color: {r: 0.7402706, g: 0.5019608, b: 1, a: 0}
+    sprite: {fileID: 21300000, guid: 3850e6fc30fee4d86ba2f3d25b322af1, type: 3}
+  - name: HERMIA
+    color: {r: 0.52601814, g: 0.5019608, b: 1, a: 0}
+    sprite: {fileID: 21300000, guid: 0700c61816ae947f680b1a1a6b171e2f, type: 3}
+  - name: LYSANDER
+    color: {r: 0.7972992, g: 1, b: 0.5019608, a: 0}
+    sprite: {fileID: 21300000, guid: 7d541ae6ac57f4f2fa85651b78d48b66, type: 3}
+  - name: DEMETRIUS
+    color: {r: 0.5019608, g: 0.9688584, b: 1, a: 0}
+    sprite: {fileID: 21300000, guid: 041dd103e5c634812bd6444e56f3596c, type: 3}
+  - name: HELENA
+    color: {r: 1, g: 0.75940907, b: 0.5019608, a: 0}
+    sprite: {fileID: 21300000, guid: c2543413f80754abb8ffd4bb4b144a2d, type: 3}
