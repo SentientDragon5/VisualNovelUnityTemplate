@@ -270,3 +270,25 @@ namespace SD5VisualNovel
         }
     }
 }
+
+[System.Serializable]
+public class Speaker
+{
+    public string name = "Jill";
+    public Color color;
+    public Sprite sprite;
+
+    public static Speaker None
+    {
+        get
+        {
+            return new Speaker()
+            {
+                name = "???",
+                color = Color.grey,
+            };
+        }
+    }
+    //public override bool Equals(object obj) { return ((Speaker)obj).name == this.name; }
+}
+public enum ActionType { Text, Enter, Exit }
